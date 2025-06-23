@@ -30,8 +30,6 @@ Explore the full code and workflow here:
 - [Flask / Streamlit] for web deployment  
 
 
- 🔗 Project Links
- GitHub: [github.com/roja2004/heart-disease-prediction](https://github.com/roja2004/heart-disease-prediction)  
 
 
 
